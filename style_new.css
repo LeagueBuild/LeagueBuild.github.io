@@ -27,11 +27,7 @@ nav{
     margin:0;
     box-shadow: 0 2px 2px #ccc;
     background: #333;
-}
-.container{
-  width:100%;
-  max-width:1200px;
-  margin:0 auto;
+    
 }
 .logo{
   text-align: left;
