@@ -29,9 +29,9 @@ li a {
   
 
 li a:hover {
-    background-color: green;
+    background-color: blue;
 }
 
 .hover {
-    background-color: green;
+    background-color: blue;
 }
